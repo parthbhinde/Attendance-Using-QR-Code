@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html * {
+	font-family: 'Roboto', sans-serif;
+}
+button:focus, button:hover, a:focus, a:hover{
+	outline: 0 none !important;
+}
+input{
+	background-color: white !important;
+}
+select:focus, select:hover, input:focus, input:hover{
+	outline: none !important;
+}

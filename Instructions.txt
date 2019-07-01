@@ -1,0 +1,4 @@
+To Run:
+1)Upload the sql file to the database server
+2)add the users in admininfo,studentinfo and teacherinfo (passwords should be hashed using bcrypt)
+3)change the ip addresses in /server/strings.php and /app/components/Global.js

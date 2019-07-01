@@ -1,0 +1,20 @@
+.LOG
+
+18:43 23-06-2018
+created change.log file in admin folder
+added time zone in all connect files
+fixed time issue in blankinsert.php
+favicon on all iframes and all files in browser folder
+scroll down on change pass student (not tested)
+removed "<" tag from changepass student
+removed jquey js folder link in student folder files
+
+17:35 24-06-2018
+copy abc.php to verification folder
+made app
+new verification file as per app
+multiatt changes made
+
+19:59 25-06-2018
+update app
+download app link
