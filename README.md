@@ -6,17 +6,17 @@ This system is made using React-native frontend and PHP MYSQL backend
 App (React-Native)
 ------------
 
-![Home](https://github.com/parthbhinde/Attendance-Using-QR-Codes/blob/master/Screenshots/home%20app.jpg?raw=true "Home")
+![Home](https://github.com/parthbhinde/Attendance-Using-QR-Code/blob/master/Screenshots/details.jpg?raw=true "Home")
 
 
 Help a friend
 ------------
-![Help a friend](https://github.com/parthbhinde/Attendance-Using-QR-Codes/blob/master/Screenshots/help%20a%20friend.jpg?raw=true "Help a friend")
+![Help a friend](https://github.com/parthbhinde/Attendance-Using-QR-Code/blob/master/Screenshots/help%20a%20friend.jpg?raw=true "Help a friend")
 
 
 Details
 ------------
-![Details](https://github.com/parthbhinde/Attendance-Using-QR-Codes/blob/master/Screenshots/details.jpg?raw=true "Details")
+![Details](https://github.com/parthbhinde/Attendance-Using-QR-Code/blob/master/Screenshots/details.jpg?raw=true "Details")
 
 Admin/Teacher (PHP MYSQL)
 ------------
