@@ -20,11 +20,11 @@ Details
 
 Admin/Teacher (PHP MYSQL)
 ------------
-![Home](https://github.com/parthbhinde/Attendance-Using-QR-Codes/blob/master/Screenshots/image22.png?raw=true "Home")
+![Home](https://github.com/parthbhinde/Attendance-Using-QR-Code/blob/master/Screenshots/image22.png?raw=true "Home")
 
 Individual Report
 ------------
-![Individual Report](https://github.com/parthbhinde/Attendance-Using-QR-Codes/blob/master/Screenshots/image10.png?raw=true "Individual Report")
+![Individual Report](https://github.com/parthbhinde/Attendance-Using-QR-Code/blob/master/Screenshots/image10.png?raw=true "Individual Report")
 
 ### Features
 - Proxy Prevention
