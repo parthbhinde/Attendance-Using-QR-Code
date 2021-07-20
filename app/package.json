@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-animate-loading-button": "^1.0.3",
     "react-native-camera": "^2.9.0",
     "react-native-datepicker": "^1.7.2",
