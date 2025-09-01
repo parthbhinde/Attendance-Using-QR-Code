@@ -33,12 +33,4 @@ Individual Report
 - Admin Portal
 - Faster Attendance taking process
 
-Authors
-------------
-- [Parth Bhinde](https://github.com/parthbhinde "Parth Bhinde")
-- [Vinayak Bhanushali ](https://github.com/Vinayak-Bhanushali "Vinayak Bhanushali ")
-
-
-The Mobile version of this app is also made in flutter by [Vinayak Bhanushali ](https://github.com/Vinayak-Bhanushali/QrAtt "Vinayak Bhanushali ")
-
 
